@@ -11,5 +11,5 @@ end
 
 def take_a_number(deli_array, person)
   deli_array.push(person)
-  puts ""
+  puts "Welcome, #{person}"
 end 
